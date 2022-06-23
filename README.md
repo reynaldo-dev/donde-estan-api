@@ -45,4 +45,9 @@ $ npm run test:cov
 ```
 
 
+### Tecnologías:
+* NestJS
+* Typescript
+* MongoDB
+* Node
 
